@@ -6,12 +6,40 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Armature
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.002_end
+    100012: Teapot.001
+    100014: Teapot_Armature
+    100016: Teapot
     400000: //RootNode
+    400002: Armature
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.002_end
+    400012: Teapot.001
+    400014: Teapot_Armature
+    400016: Teapot
     2100000: No Name
     2300000: //RootNode
+    2300002: Teapot.001
     3300000: //RootNode
+    3300002: Teapot.001
     4300000: Teapot
     4300002: Plane
+    4300004: Teapot.001
+    7400000: Armature|hello
+    7400002: Armature|idle_body
+    7400004: Armature|idle_hand
+    7400006: Armature|idle
+    7400008: Teapot_Armature|hello
+    7400010: Teapot_Armature|idle
+    9500000: //RootNode
+    13700000: Teapot.001
+    13700002: Teapot
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -31,7 +59,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -83,10 +111,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
